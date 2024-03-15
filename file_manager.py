@@ -1,3 +1,5 @@
+__version__ = 'dev'
+
 import os
 
 def create_file_structure(file_structure_str, base_dir='.'):
