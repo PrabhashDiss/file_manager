@@ -1,2 +1,2 @@
-# my_file_manager
+# file_manager
  
